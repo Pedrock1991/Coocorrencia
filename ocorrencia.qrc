@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../build-Coocorrencia-Qt_4_8_6_Qt_4_8_6-Release/ocorrencia.cl</file>
+    </qresource>
+</RCC>
